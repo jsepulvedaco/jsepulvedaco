@@ -2,7 +2,7 @@
 
 ## Hi, I'm Jorge 👋 I'm a Web Developer
 
-I’m currently learning React, Redux JAMstack & Gatsby
+I’m currently learning React, Redux, JAMstack & Gatsby
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
