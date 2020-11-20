@@ -8,7 +8,7 @@ I’m currently learning React, Redux, Gatsby
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[banner]: https://raw.githubusercontent.com/jsepulvedaco/jsepulvedaco/master/banner.png
 [website]: https://jsepulveda.co
 [twitter]: https://twitter.com/jsepulvedaco
 [linkedin]: https://linkedin.com/in/jsepulvedaco
