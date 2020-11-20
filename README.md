@@ -1,6 +1,6 @@
 ## Hi, I'm Jorge 👋 I'm a Web Developer
 
-- 🌱 I’m currently learning React, Redux, Gatsby
+I’m currently learning React, Redux, Gatsby
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
