@@ -1,27 +1,12 @@
-## Hi, I'm James 👋 I'm a Developer, Speaker, and Teacher!
+## Hi, I'm Jorge 👋 I'm a Web Developer
 
-- 🔭 I’m currently working on JAMstack content!
-- 🌱 I’m currently learning GraphQL, Next.js, Design, testing
-- 💬 Ask me about JavaScript, Full Stack development, JAMstack, and building cool sh*t
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
-
+- 🌱 I’m currently learning React, Redux, Gatsby
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-Shoutout to [Brad Garropy][brad] for the inspiration!
 
-[website]: https://jamesqquick.com
-[twitter]: https://twitter.com/jamesqquick
-[youtube]: https://youtube.com/jamesqquick
-[twitch]: https://twitch.tv/jamesqquick
-[instagram]: https://instagram.com/jamesqquick
-[linkedin]: https://linkedin.com/in/jamesqquick
-[npm]: https://npmjs.com/~jamesqquick
-[brad]: https://github.com/bradgarropy
+[website]: https://jsepulveda.co
+[twitter]: https://twitter.com/jsepulvedaco
+[linkedin]: https://linkedin.com/in/jsepulvedaco
