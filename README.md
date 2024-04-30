@@ -9,6 +9,5 @@ I’m currently learning React, Redux, JAMstack & Gatsby
 👔 [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/jsepulvedaco/jsepulvedaco/master/banner.png
-[website]: https://jsepulveda.co
 [twitter]: https://twitter.com/jsepulvedaco
 [linkedin]: https://linkedin.com/in/jsepulvedaco
